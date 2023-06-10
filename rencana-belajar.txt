@@ -1,0 +1,8 @@
+RENCANA BELAJAR
+
+- HTML
+  * Tampilan Dasar
+  * Tambah CSS
+- CSS
+- JAVASCRIPT
+- PYTHON
